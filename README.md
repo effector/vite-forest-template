@@ -1,3 +1,11 @@
-# vitejs-vite-5l7sq7
+# Vite Forest TypeScript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-5l7sq7)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vite-typescript-forest)
+
+In the box:
+
+- effector
+- patronum
+- typescript 4.6.4
+- vitejs 3
+- forest
